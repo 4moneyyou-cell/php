@@ -1,7 +1,1 @@
-<?php $pageTitle='Contact Us'; require 'includes/header.php'; ?>
-<section class="page-hero"><div class="container"><div class="eyebrow">Contact Money4You</div><h1>Let's discuss your funding requirement</h1><p>Funding & Financial Consultancy Services available across India.</p></div></section>
-<section class="section"><div class="container contact-grid">
-<div class="contact-box"><h3>Money4You</h3><div class="contact-line"><strong>Phone</strong><br><a href="<?= SITE_PHONE_LINK ?>"><?= SITE_PHONE ?></a></div><div class="contact-line"><strong>Email</strong><br><a href="mailto:<?= SITE_EMAIL ?>"><?= SITE_EMAIL ?></a></div><div class="contact-line"><strong>Website</strong><br>money4you.in</div><p class="tagline">Build a Relationship, Not a Business</p></div>
-<div class="card"><h3>Ready to get started?</h3><p>Share your business funding requirement and relevant details through our enquiry form.</p><a class="btn btn-gold" href="enquiry.php">Start Funding Enquiry</a><a class="btn" style="margin-left:8px;background:#eaf7ef;color:#148044" href="https://wa.me/919992280874?text=Hello%20Money4You%2C%20I%20need%20funding%20assistance." target="_blank" rel="noopener">WhatsApp</a></div>
-</div></section>
-<?php require 'includes/footer.php'; ?>
+
