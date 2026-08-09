@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220">
+<defs><style>.n{fill:#071b3a;stroke:#c99a3b;stroke-width:5}.t{fill:#fff;font:700 18px Arial}.s{fill:#64748b;font:14px Arial}.l{stroke:#c99a3b;stroke-width:4}</style></defs>
+<line class="l" x1="150" y1="75" x2="1050" y2="75"/>
+<g><circle class="n" cx="100" cy="75" r="35"/><text class="t" x="90" y="82">1</text><text class="s" x="43" y="140">Consultation</text></g>
+<g><circle class="n" cx="300" cy="75" r="35"/><text class="t" x="290" y="82">2</text><text class="s" x="253" y="140">Assessment</text></g>
+<g><circle class="n" cx="500" cy="75" r="35"/><text class="t" x="490" y="82">3</text><text class="s" x="450" y="140">Documents</text></g>
+<g><circle class="n" cx="700" cy="75" r="35"/><text class="t" x="690" y="82">4</text><text class="s" x="650" y="140">Partner Selection</text></g>
+<g><circle class="n" cx="900" cy="75" r="35"/><text class="t" x="890" y="82">5</text><text class="s" x="865" y="140">Processing</text></g>
+<g><circle class="n" cx="1100" cy="75" r="35"/><text class="t" x="1090" y="82">6</text><text class="s" x="1048" y="140">Disbursement</text></g>
+</svg>
